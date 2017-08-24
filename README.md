@@ -1,6 +1,6 @@
-# Basic Project
+# Java Fundamenetals
 
-*Structure for creating a Basic Java Project.*
+*Java Fundamentals project for day 5 Evernote task.*
 
 **Java 7**
 
