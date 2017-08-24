@@ -2,8 +2,8 @@
  * File Name: AppBasics.java<br>
  * Nepton, Jean-francois<br>
  * Java Boot Camp Exercise<br>
- * Instructor: Jean-francois Nepton<br>
- * Created: Aug 19, 2017
+ * Instructor: George Hanna<br>
+ * Created: Aug 23, 2017
  */
 package com.sqa.gh.helpers;
 
